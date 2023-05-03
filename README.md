@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Renzo Martín Bisso</h1>
 <h3 align="center">I am a student of Information Systems at the National University of Luján (UNLu).</h3>
 
+- 📫 How to reach me **renzo.bissoo@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/renzo-martin-bisso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renzo-martin-bisso/" height="30" width="40" /></a>
