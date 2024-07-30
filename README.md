@@ -10,7 +10,8 @@ In addition to my academic training, I have sought to expand my knowledge in a s
 
 # Connect with me!
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/renzo-martín-bisso) [<img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](<a href="mailto:renzo_bisso@outlook.com">) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/renzo-martín-bisso) [![Outlook](https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](mailto:renzo_bisso@outlook.com)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RenzoBisso&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
