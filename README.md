@@ -49,8 +49,8 @@ Nov 2023 - Feb 2024
 - **Trabajo en Equipo**
 - **Comunicación**
 - **Adaptabilidad**
-- **Gestión del Tiempo**
 - **Autodidacta**
+- **Manejo de algoritmos y estructuras de datos**
   
 ## ¡Conéctate conmigo!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/renzo-martín-bisso) [![Outlook](https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](mailto:renzo_bisso@outlook.com)
