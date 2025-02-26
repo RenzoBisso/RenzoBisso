@@ -22,9 +22,10 @@ Jul 2022 - Oct 2022
 **Base de Datos SQL**  
 Jul 2023 - Sept 2023
 
-## MaxiPrograma
-**C# Nivel 2 [.Net + SQL]**
-Enero 2025
+### MaxiPrograma
+**C# Nivel 2 .Net + SQL**
+Enero 2025                 
+
 
 ### Universidad Nacional de Luján
 **Introducción a las Técnicas de Desarrollo Dirigido por Pruebas en JAVA**  
