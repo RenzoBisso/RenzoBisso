@@ -18,11 +18,11 @@ Además de mi formación académica, he buscado ampliar mis conocimientos de man
 
 ### CoderHouse
 **Desarrollo Web**  
-Jul 2022 - Oct 2022
+Jul 2022 
 
 ### CoderHouse
 **Base de Datos SQL**  
-Jul 2023 - Sept 2023
+Jul 2023 
 
 ### MaxiPrograma
 **C# Nivel 2 .Net + SQL**
@@ -39,7 +39,7 @@ jun. 2024
 
 ### EducationIT
 **Introducción al Paradigma de Objetos en JAVA**  
-May 2024 - Actualidad
+May 2024
 
 ## 🛠️ Habilidades
 
